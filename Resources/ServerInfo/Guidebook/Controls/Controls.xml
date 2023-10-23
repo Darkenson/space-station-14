@@ -30,8 +30,9 @@ All items have an assigned size, some too large to fit into most or all containe
 
 To drop items, you can press [color=#a4885c][keybind="Drop"/][/color], and to drop them more violently (also known as throwing), you can press [color=#a4885c][keybind="ThrowItemInHand"/][/color].
 
-A slightly advanced way to manage your inventory is to use [color=#a4885c]Shift + B[/color]. If your active hand is currently empty, this hotkey will pull out the latest item that was put in your bag. If you have an item in your hand - samek hotkey will put said item into your bag.
+A slightly advanced way to manage your inventory is to use [color=#a4885c]Shift + B[/color]. If your active hand is currently empty, this hotkey will pull out the latest item that was put in your bag. If you have an item in your hand - same hotkey will put said item into your bag.
 Hotkey [color=#a4885c]Shift + E[/color] works exactly the same, but uses your belt as storage.
+
 ## Actions
 To the left in your HUD there's a bar showing various actions you can take.
 You can hover over each one to see a name and description for the action that tells you what it is and how it works.
@@ -42,7 +43,7 @@ You have 10 pages of actions total that you can switch between by pressing [colo
 Additionally, you can press the lock icon to prevent the action bar from being modified.
 
 ## Movement
-There's a good few things that can modify your movement, most notably slipping (which requires you to walk with [color=#a4885c]shift[/color] to avoid, usually.) and a lack of gravity.
+There's a good few things that can modify your movement, most notably slipping (which requires you to walk with [color=#a4885c]shift[/color] to avoid, usually) and a lack of gravity.
 Slipping simply stuns you for a bit, but no gravity can be deadly if you're off station and wander more than about 1.5m away from the nearest wall or solid structure, as you'll lose your grip and no longer be able to move without throwing something.
 
 </Document>
